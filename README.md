@@ -1,4 +1,4 @@
 # rust-dev
 Rust development repo.
 
-Building a HTTP Server From Scratch
+Building an HTTP Server From Scratch
